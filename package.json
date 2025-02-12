@@ -1,0 +1,25 @@
+{
+  "name": "devmedia",
+  "version": "1.0.0",
+  "description": "social media app for developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "react",
+    "javascript"
+  ],
+  "author": "deepak bisht",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "Devmedia"
+  }
+}
